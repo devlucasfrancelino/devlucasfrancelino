@@ -1,6 +1,7 @@
 
 ### Olá Sou Lucas Francelino! 👋
 Um apaixonado desenvolvedor web com um grande interesse em criar soluções digitais. Meu principal foco é o desenvolvimento front-end, e tenho experiência com frameworks modernos, como React e Next.js.
+Assim como diversos bancos de dados como mongoDB e MySQL
 
 
 ## Tecnologias que uso no meu dia a dia
